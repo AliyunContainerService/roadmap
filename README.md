@@ -11,5 +11,5 @@
 
 
 ### 注意事项
-* 任何与安全相关问题，请提[阿里云工单](https://workorder.console.aliyun.com/#/ticket/createIndex) 我们会第一时间解决。请不要在Github提交或讨论相应的问题和讨论防止，防止安全漏洞被利用。
-* 在Github上的问题提交是整个社区可见的，请注意您的隐私和尊重他人
+* 任何与安全相关问题，请提[阿里云工单](https://workorder.console.aliyun.com/#/ticket/createIndex) 我们会第一时间解决。请不要在Github提交或讨论相应的问题，防止安全漏洞被利用。
+* 在Github上的问题提交是整个社区可见的，请注意您的隐私并尊重他人
