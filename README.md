@@ -1,6 +1,6 @@
 ## Roadmap
 
-This is the public roadmap for Alibaba Cloud Container Services (ACK, ACR, ASK - Serverless K8s, and ACK@Edge).
+This is the public roadmap for Alibaba Cloud Container Services (ACK, ACR, ASK - Serverless K8s, ACK@Edge and ASM - Service Mesh ).
 
 This repository contains information about what we are working on and allows all customers to give direct feedback.
 
