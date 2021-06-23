@@ -8,7 +8,7 @@ This repository contains information about what we are working on and allows all
 * [ACR roadmap](https://github.com/AliyunContainerService/roadmap/projects/3)
 * [ASK roadmap](https://github.com/AliyunContainerService/roadmap/projects/4)
 * [ACK@Edge roadmap](https://github.com/AliyunContainerService/roadmap/projects/5)
-* [ASM roadmap](https://github.com/AliyunContainerService/roadmap/projects/6)
+* [ASM roadmap](https://github.com/AliyunContainerService/roadmap/projects/6) TBD
 
 ## Issues Tracking
 
